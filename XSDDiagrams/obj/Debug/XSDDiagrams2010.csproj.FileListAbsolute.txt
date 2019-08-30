@@ -1,0 +1,5 @@
+C:\Users\chalice.lin\Desktop\xsddiagram-master\xsddiagram-master\XSDDiagrams\bin\Debug\XSDDiagrams.dll
+C:\Users\chalice.lin\Desktop\xsddiagram-master\xsddiagram-master\XSDDiagrams\bin\Debug\XSDDiagrams.pdb
+C:\Users\chalice.lin\Desktop\xsddiagram-master\xsddiagram-master\XSDDiagrams\obj\Debug\XSDDiagrams2010.csprojResolveAssemblyReference.cache
+C:\Users\chalice.lin\Desktop\xsddiagram-master\xsddiagram-master\XSDDiagrams\obj\Debug\XSDDiagrams.dll
+C:\Users\chalice.lin\Desktop\xsddiagram-master\xsddiagram-master\XSDDiagrams\obj\Debug\XSDDiagrams.pdb

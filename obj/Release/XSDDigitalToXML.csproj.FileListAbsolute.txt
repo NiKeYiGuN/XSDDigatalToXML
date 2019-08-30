@@ -1,0 +1,8 @@
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.csprojAssemblyReference.cache
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.AboutForm.resources
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.DiagramControlContainer.resources
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.ErrorReportForm.resources
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.Mainform.resources
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.Properties.Resources.resources
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.csproj.GenerateResource.cache
+F:\workspace\repos\XSDDigitalToXML\XSDDigitalToXML\obj\Release\XSDDigitalToXML.exe.licenses
